@@ -9,10 +9,7 @@ A passionate and curious Software Engineer who loves building user-focused, impa
 - 🌱 I’m a **Software Engineering graduate from BrainStation**, passionate about solving real-world problems with code.
 - 👯 I’m looking to collaborate on **open-source projects**, **tech-for-good initiatives**, and anything **React or Node.js** related.
 - 💬 Ask me about **JavaScript, React, APIs, or transitioning into tech**.
-- 🤝 I’m looking for help with **backend performance optimization and scalable system design**.
 - 📫 How to reach me: [Email me](mailto:parisamirhosseini2@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/parisa-miehosseini).
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I once built a mood-based snack recommendation app – and yes, it works surprisingly well!
 
 ---
 
